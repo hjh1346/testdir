@@ -2,6 +2,8 @@ main에서 수정
 conflict에서 첫줄 수정
 featureA 추가
 featureB 추가
+feature 사라지게 한다
 feature ㅎㅎㅎ
 main에서 작업
 feature 작업중
+otherpc에서 수정함
